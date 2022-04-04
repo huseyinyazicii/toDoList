@@ -1,3 +1,3 @@
 # PROJECT PREVIEW
 
-![](todo.gif)
+<img src="todo.gif" width="400"/>
